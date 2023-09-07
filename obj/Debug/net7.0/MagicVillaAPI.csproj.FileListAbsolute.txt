@@ -78,3 +78,5 @@ C:\Users\mrivera\source\repos\MagicVillaSolucion\MagicVillaAPI\bin\Debug\net7.0\
 C:\Users\mrivera\source\repos\MagicVillaSolucion\MagicVillaAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Users\mrivera\source\repos\MagicVillaSolucion\MagicVillaAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
 C:\Users\mrivera\source\repos\MagicVillaSolucion\MagicVillaAPI\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\mrivera\source\repos\MagicVillaSolucion\MagicVillaAPI\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\mrivera\source\repos\MagicVillaSolucion\MagicVillaAPI\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
