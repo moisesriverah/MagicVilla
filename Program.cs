@@ -17,6 +17,7 @@ builder.Services.AddDbContext<ApplicationDbContext>(option =>
 });
 builder.Services.AddAutoMapper(typeof(MagicVillaAPI.MappingConfig));
 builder.Services.AddScoped<IVillaRepository, VillaRepository>();
+builder.Services.AddScoped<INumberVillaRepository, NumberVillaRepository>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
